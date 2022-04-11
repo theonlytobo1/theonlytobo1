@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwatobi Adewoye @theonlytobo1
 - 👀 I’m interested in web development, Frontend to be precise.
 - 🌱 I’m currently learning HTML, CSS, Javascript and later on, any javascript framework.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with individuals, clients on web development projects.
 - 📫 How to reach me: tobilobaadewoye1@gmail.com
 
 <!---
