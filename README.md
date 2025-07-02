@@ -1,10 +1,62 @@
-- 👋 Hi, I’m Oluwatobi Adewoye @theonlytobo1
-- 👀 I’m interested in web development, Frontend to be precise and also Cyber Security/Network/Information Engineer roles
-- 🌱 I’m currently learning HTML, CSS, Javascript and later on, any javascript framework. Also for my Cyber Security/Network/Information Analyst or Engineer roles, I am currently learning Network+ (CompTIA).
-- 💞️ I’m looking to collaborate with individuals, clients on different projects.
-- 📫 How to reach me: tobilobaadewoye1@gmail.com
+# 👋 Hi, I'm Oluwatobi Adewoye
 
-<!---
-theonlytobo1/theonlytobo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Cyber Security Management(2024) – The University of Law (UK)  
+🔐 ISC2 Membership Candidate | Network+ (In Progress)  
+📍 Based in England, United Kingdom  
+
+---
+
+## 🚀 About Me
+
+I’m an emerging cybersecurity and IT infrastructure professional with a passion for **digital trust**, **network security**, and **public sector innovation**. With hands-on experience in **cybersecurity analysis**, **network administration**, and **IT support**, I bring a practical and user-focused approach to securing systems and enabling access.
+
+I hold an MSc in Cyber Security Management and have worked across sectors — including public service (Department for Work and Pensions), education technology (YSA Education), and telecommunications (Phase3 Telecom).
+
+---
+
+## 💼 Current Focus
+
+- Preparing for **CompTIA Network+ (N10-009)**  
+- Building out my GitHub with security tools, labs, and applied concepts  
+- Exploring open-source cybersecurity projects and public interest tech  
+
+---
+
+## 🧠 Key Areas of Interest
+
+- SOC Operations & Threat Monitoring  
+- Network & Infrastructure Security  
+- Data Protection & GDPR  
+- Cybersecurity in Public Services  
+- Digital Inclusion & Tech for Good  
+
+---
+
+## 📁 Featured Projects
+
+### 🔐 MSc Dissertation – Cybersecurity Research  
+An exploration into EFFECTIVENESS OF CYBERSECURITY INVESTMENT IN LOSS PREVENTION IN NIGERIAN BANKS.  
+🛠️ Tools: Oracle VM VirtualBox, Network Security Principles  
+
+### 💡 Learning Support & Digital Literacy Integration  
+Designed tech-enabled learning strategies for students with SEND (Special Educational Needs) as part of EdTech engagement.  
+
+---
+
+## 🛠️ Certifications & Learning
+
+- CompTIA Network+ *(in progress – July/August 2025 exam)*  
+- MSc Cyber Security Management (UK)  
+- ITIL Foundation (process-aware troubleshooting)  
+
+---
+
+## 🤝 Let’s Connect
+
+🔗 [LinkedIn – Oluwatobi Adewoye](https://www.linkedin.com/in/oluwatobi-adewoye-157469158/)  
+📬 Email: tobilobaadewoye1@gmail.com
+
+---
+
+> *“I believe cybersecurity is about more than systems — it's about trust, access, and empowering people through safe technology.”*
+
